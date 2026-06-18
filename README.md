@@ -6,11 +6,13 @@ Landing page pessoal desenvolvida em HTML, CSS e JavaScript puro, com design mod
 
 ## 📁 Estrutura do projeto
 
+```text
 portfolio/
 ├── index.html    # estrutura e conteúdo
 ├── style.css     # estilização completa
 ├── script.js     # animação de scroll reveal
 └── README.md     # documentação
+```
 
 ---
 
