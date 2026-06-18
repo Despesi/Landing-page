@@ -7,14 +7,10 @@ Landing page pessoal desenvolvida em HTML, CSS e JavaScript puro, com design mod
 ## 📁 Estrutura do projeto
 
 portfolio/
-
-├── index.html   → estrutura e conteúdo da página
-
-├── style.css    → estilização completa (cores, layout, responsivo)
-
-├── script.js    → animação de scroll reveal
-
-└── README.md    → documentação do projeto
+├── index.html    # estrutura e conteúdo
+├── style.css     # estilização completa
+├── script.js     # animação de scroll reveal
+└── README.md     # documentação
 
 ---
 
